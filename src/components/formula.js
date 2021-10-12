@@ -1,0 +1,12 @@
+const cred = ((100-credVisa-antecipa*100-credVisa-1)*-1);
+const cred2 =((100-c2a6visa)-antecipa*(100-c2a6visa)-antecipa*(100-c2a6visa)/2-1)*-1;
+const cred3 =((100-c2a6visa)-antecipa*(100-c2a6visa)-antecipa*(100-c2a6visa)/2-antecipa*(100-c2a6visa)/2-1)*-1;
+const cred4 =((100-c2a6visa)-antecipa*(100-c2a6visa)-antecipa*(100-c2a6visa)/2-antecipa*(100-c2a6visa)/2-antecipa*(100-c2a6visa)/2-1)*-1;
+const cred5 =((100-c2a6visa)-antecipa*(100-c2a6visa)-antecipa*(100-c2a6visa)/2-antecipa*(100-c2a6visa)/2-antecipa*(100-c2a6visa)/2-antecipa*(100-c2a6visa)/2-1)*-1;
+const cred6 =((100-c2a6visa)-antecipa*(100-c2a6visa)-antecipa*(100-c2a6visa)/2-antecipa*(100-c2a6visa)/2-antecipa*(100-c2a6visa)/2-antecipa*(100-c2a6visa)/2-antecipa*(100-c2a6visa)/2-1)*-1
+const cred7 =((100-c7a12visa)-antecipa*(100-c7a12visa)-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-1)*-1;
+const cred8 =((100-c7a12visa)-antecipa*(100-c7a12visa)-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-1)*-1;
+const cred9 =((100-c7a12visa)-antecipa*(100-c7a12visa)-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-1)*-1;
+const cred10 =((100-c7a12visa)-antecipa*(100-c7a12visa)-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-1)*-1;
+const cred11 =((100-c7a12visa)-antecipa*(100-c7a12visa)-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-1)*-1;
+const cred12 =((100-c7a12visa)-antecipa*(100-c7a12visa)-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-antecipa*(100-c7a12visa)/2-1)*-1;
