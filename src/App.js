@@ -20,7 +20,7 @@ function App() {
      <TableInput></TableInput>
      </Col>
      <Col>
-     <CetTable></CetTable>
+
      </Col>
      </Row>
      </Container>
